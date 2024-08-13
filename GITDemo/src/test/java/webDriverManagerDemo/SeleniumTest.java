@@ -23,6 +23,8 @@ public class SeleniumTest {
 		driver.get("https://tridhyatech.com");
 		driver.manage().window().maximize();
 		
+		System.out.println("Update the class");
+		
 	}
 
 }
